@@ -137,8 +137,12 @@ Filter interface with tabs for different task states and summary statistics.
 
 ##  Live Demo
 
-[Add your deployed application URL here]
+https://spidyshivam.github.io/task-tracker/
 
+## Screenshots
+![Login](screenshots/Login.png)
+![Add Task](screenshots/Addtask.png)
+![Home](screenshots/Home.png)
 
 ##  Testing the Application
 
